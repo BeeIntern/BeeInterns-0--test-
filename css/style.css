@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+* {
+    font-family: 'Abel', sans-serif;
+    font-size: 18px;
+    /* line-height: 30px; */
+    /* outline: 1px red solid; */
+    box-sizing: border-box;
+}
